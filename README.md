@@ -35,9 +35,9 @@ Use the SSH option provided to connect to the VM from the browser.
 2. Configure VM Instance
 Clone your GitHub repo
 
-git clone https://github.com/d-hackmt/flipkart-product-chatbot.git
+git clone https://github.com/tushar-dudeja-2001/Flipkart-product-chatbot.git
 ls
-cd TESTING-9
+cd Flipkart-product-chatbot
 ls  # You should see the contents of your project
 Install Docker
 
