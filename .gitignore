@@ -12,3 +12,6 @@ flipbotenv/
 
 # Environment variables
 .env
+
+# Logs
+logs/
