@@ -1,0 +1,7 @@
+flipbotenv/
+.venv/
+.git/
+.env
+logs/
+__pycache__/
+*.pyc
